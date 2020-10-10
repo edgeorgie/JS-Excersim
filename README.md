@@ -1,2 +1,2 @@
-# JS-Excersim
+# JS Excersim
 Full Javascript Excersim track
